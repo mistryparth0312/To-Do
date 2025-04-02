@@ -7,6 +7,7 @@
         <InvariantGlobalization>true</InvariantGlobalization>
         <RootNamespace>dotnet_todo</RootNamespace>
         <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+        <IsPackable>true</IsPackable>
     </PropertyGroup>
 
     <ItemGroup>
